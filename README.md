@@ -42,3 +42,22 @@ Possible extensions:
 - compare different array tapering windows
 - investigate different jammer directions and power levels
 - extend to larger arrays or multiple interferers
+
+## Example Results
+
+<p align="center">
+  <img src="results/ula_pattern.png" width="45%">
+  <img src="results/adaptive_beamforming_response.png" width="45%">
+</p>
+
+<p align="center">
+  Left: ULA pattern with Taylor weighting. Right: adaptive beamforming response under jammer interference.
+</p>
+
+<p align="center">
+  <img src="results/covariance_eigenvalues.png" width="45%">
+</p>
+
+<p align="center">
+  Eigenvalue distribution of the covariance matrix.
+</p>
